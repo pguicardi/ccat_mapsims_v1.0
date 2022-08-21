@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+fgspectra/__init__.py
+fgspectra/cross.py
+fgspectra/frequency.py
+fgspectra/model.py
+fgspectra/power.py
+fgspectra.egg-info/PKG-INFO
+fgspectra.egg-info/SOURCES.txt
+fgspectra.egg-info/dependency_links.txt
+fgspectra.egg-info/requires.txt
+fgspectra.egg-info/top_level.txt
+fgspectra/data/cl_ksz_bat.dat
+fgspectra/data/cl_sz_x_cib.dat
+fgspectra/data/cl_tsz_150_bat.dat

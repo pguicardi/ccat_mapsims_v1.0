@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: fgspectra
+Version: 0.1
+Summary: Foreground SED and power spectrum library
+Home-page: UNKNOWN
+Author: Simons Observatory fgspectra crew
+Author-email: 
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >3.5

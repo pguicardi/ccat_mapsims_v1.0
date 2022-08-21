@@ -1,0 +1,1 @@
+To obtain a much better interface to explore jupyter notebooks and change/edit files on remote directories, follow these steps: https://docs.anaconda.com/anaconda/user-guide/tasks/remote-jupyter-notebook/
